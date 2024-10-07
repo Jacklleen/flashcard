@@ -1,0 +1,30 @@
+criaCartao(
+    'Título',
+    'Pergunta',
+    'Resposta'
+)
+criaCartao(
+    'Título',
+    'Pergunta',
+    'Resposta'
+)
+criaCartao(
+    'Título',
+    'Pergunta',
+    'Resposta'
+)
+criaCartao(
+    'Título',
+    'Pergunta',
+    'Resposta'
+)
+criaCartao(
+    'Título',
+    'Pergunta',
+    'Resposta'
+)
+criaCartao(
+    'Título',
+    'Pergunta',
+    'Resposta'
+)
