@@ -10,7 +10,7 @@ criaCartao(
 )
 criaCartao(
     'Mitologia Grega',
-    'Quem era o padroeiro dos viajantes e dos ladrões?',
+    'Quem era o padroeiro dos viajantes e dos ladrões na Grécia?',
     'Hermes'
 )
 criaCartao(
@@ -20,11 +20,11 @@ criaCartao(
 )
 criaCartao(
     'Mitologia Grega',
-    'Quem foi o filho de Poseidon e Medusa?',
+    'A qual ser mitológico Medusa deu a luz após sua morte?',
     'Pegasus'
 )
 criaCartao(
     'Mitologia',
-    'Qual o correspondente do Cupido na mitologia grega?',
+    'Qual o deus correspondente ao Cupido na mitologia grega?',
     'Eros'
 )
