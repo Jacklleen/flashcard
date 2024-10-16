@@ -1,6 +1,6 @@
 criaCartao(
     'Mitologia Grega',
-    'Qual o nome da esposa da rainha do submundo?',
+    'Qual o nome da rainha do submundo?',
     'Perséfone'
 )
 criaCartao(
